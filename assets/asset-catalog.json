@@ -1,0 +1,157 @@
+{
+  "aef03a27-5d93-4e09-89ea-c1b31db3b10e": {
+    "path": "components/aabb_collider.component.json",
+    "type": "componentDefinition",
+    "import": {}
+  },
+  "af4834e7-17cc-4090-b0c9-24e100d3158b": {
+    "path": "components/asteroid.component.json",
+    "type": "componentDefinition",
+    "import": {}
+  },
+  "bc4e3644-72d5-4bc0-86de-2181828ddcc4": {
+    "path": "components/camera.component.json",
+    "type": "componentDefinition",
+    "import": {}
+  },
+  "cebdc37c-fdf9-4da4-bfa0-30edeca185a5": {
+    "path": "components/chase.component.json",
+    "type": "componentDefinition",
+    "import": {}
+  },
+  "a54fd3e4-f79a-4370-92cf-ab4412386f0d": {
+    "path": "components/damage.component.json",
+    "type": "componentDefinition",
+    "import": {}
+  },
+  "1c3c6aa8-a61f-4120-8f46-5386e4852db9": {
+    "path": "components/debug_tint.component.json",
+    "type": "componentDefinition",
+    "import": {}
+  },
+  "3475e2b3-b5ea-4c27-8fc9-66deebbcd348": {
+    "path": "components/hull.component.json",
+    "type": "componentDefinition",
+    "import": {}
+  },
+  "7eba6563-0a88-441b-9649-e4c03b813f99": {
+    "path": "components/lateral_drag.component.json",
+    "type": "componentDefinition",
+    "import": {}
+  },
+  "7dbb01c3-7361-448e-8520-e36e23a54159": {
+    "path": "components/lifetime.component.json",
+    "type": "componentDefinition",
+    "import": {}
+  },
+  "9466e403-1bba-4a52-9520-77982b9ddc0b": {
+    "path": "components/material.component.json",
+    "type": "componentDefinition",
+    "import": {}
+  },
+  "6b2d2ef5-13be-4e0f-8f74-3117789576b1": {
+    "path": "components/player.component.json",
+    "type": "componentDefinition",
+    "import": {}
+  },
+  "117fe1cc-275a-4d11-80fa-d87a6ca5b694": {
+    "path": "components/position.component.json",
+    "type": "componentDefinition",
+    "import": {}
+  },
+  "d361f75a-480a-41db-9ab7-1a5ef97d03f5": {
+    "path": "components/primitive2d.component.json",
+    "type": "componentDefinition",
+    "import": {}
+  },
+  "0a5cc3ab-45be-41ea-9e0d-62bad9129b42": {
+    "path": "components/reverse_brake.component.json",
+    "type": "componentDefinition",
+    "import": {}
+  },
+  "7d96049a-a1ab-4eee-9ad7-af2aeed5ffa5": {
+    "path": "components/seeker.component.json",
+    "type": "componentDefinition",
+    "import": {}
+  },
+  "24f6943b-0e83-4493-b27a-d71e39a80ede": {
+    "path": "components/speed.component.json",
+    "type": "componentDefinition",
+    "import": {}
+  },
+  "b100ab6e-bbe9-4b8b-a6bb-308a43999fc0": {
+    "path": "components/sphere_collider.component.json",
+    "type": "componentDefinition",
+    "import": {}
+  },
+  "6f3390f9-5af5-458e-ae9c-7a9ebf461f98": {
+    "path": "components/sprite.component.json",
+    "type": "componentDefinition",
+    "import": {}
+  },
+  "c9d9b425-3490-4386-817c-8df632eaa371": {
+    "path": "components/thrust.component.json",
+    "type": "componentDefinition",
+    "import": {}
+  },
+  "85a25c93-dbbb-496b-81ab-747c01bd1eb4": {
+    "path": "components/velocity.component.json",
+    "type": "componentDefinition",
+    "import": {}
+  },
+  "d74cf999-4db9-4473-8ee3-99fe3a2139d1": {
+    "path": "components/velocity_steering.component.json",
+    "type": "componentDefinition",
+    "import": {}
+  },
+  "cdb09630-83a7-4426-b252-a64628530844": {
+    "path": "components/weapon.component.json",
+    "type": "componentDefinition",
+    "import": {}
+  },
+  "efda5d34-354c-438d-b823-71a37b6658fb": {
+    "path": "prefabs/asteroid.prefab.json",
+    "type": "prefab",
+    "import": {}
+  },
+  "17be3c69-981f-4836-acc4-1386795a4031": {
+    "path": "prefabs/camera.prefab.json",
+    "type": "prefab",
+    "import": {}
+  },
+  "ec6d581a-fa2f-45a4-91af-dd8660648a84": {
+    "path": "prefabs/obstacle.prefab.json",
+    "type": "prefab",
+    "import": {}
+  },
+  "90ebe59b-fd37-44e1-92d4-ee1621de8000": {
+    "path": "prefabs/player.prefab.json",
+    "type": "prefab",
+    "import": {}
+  },
+  "9b7a1741-00db-4b12-b4d3-d6b1ef6a0c43": {
+    "path": "prefabs/projectile.prefab.json",
+    "type": "prefab",
+    "import": {}
+  },
+  "5bf3f886-c2dc-4001-b934-74867fa5ae79": {
+    "path": "prefabs/seeker.prefab.json",
+    "type": "prefab",
+    "import": {}
+  },
+  "b75f8dde-68ec-42d7-bccc-2a1915e2e005": {
+    "path": "shaders/primitive.wgsl",
+    "type": "shader",
+    "import": {}
+  },
+  "e2070032-f6cd-45f2-8737-fc7c794a287c": {
+    "path": "shaders/sprite.wgsl",
+    "type": "shader",
+    "import": {}
+  },
+  "c00cf574-fe38-4ae1-aa22-e1c2e757c53f": {
+    "path": "textures/asteroid.png",
+    "type": "texture",
+    "import": {}
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Hull",
+  "uuid": "3475e2b3-b5ea-4c27-8fc9-66deebbcd348",
+  "version": 1,
+  "fields": [
+    {
+      "name": "current",
+      "type": "f32",
+      "min": 0
+    },
+    {
+      "name": "max",
+      "type": "f32",
+      "min": 0
+    }
+  ]
+}

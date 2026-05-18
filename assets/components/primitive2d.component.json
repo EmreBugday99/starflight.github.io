@@ -1,0 +1,27 @@
+{
+  "name": "Primitive2D",
+  "uuid": "d361f75a-480a-41db-9ab7-1a5ef97d03f5",
+  "version": 1,
+  "fields": [
+    {
+      "name": "shape_type",
+      "type": "u8",
+      "default": 0
+    },
+    {
+      "name": "width",
+      "type": "f32",
+      "default": 0
+    },
+    {
+      "name": "height",
+      "type": "f32",
+      "default": 0
+    },
+    {
+      "name": "radius",
+      "type": "f32",
+      "default": 0
+    }
+  ]
+}

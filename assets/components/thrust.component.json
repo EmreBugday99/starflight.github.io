@@ -1,0 +1,23 @@
+{
+  "name": "Thrust",
+  "uuid": "c9d9b425-3490-4386-817c-8df632eaa371",
+  "version": 1,
+  "fields": [
+    {
+      "name": "acceleration",
+      "type": "f32",
+      "min": 0
+    },
+    {
+      "name": "max_speed",
+      "type": "f32",
+      "min": 0
+    },
+    {
+      "name": "drag",
+      "type": "f32",
+      "min": 0,
+      "max": 1
+    }
+  ]
+}

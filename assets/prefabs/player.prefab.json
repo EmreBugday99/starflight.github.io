@@ -1,0 +1,16 @@
+{
+  "name": "Player",
+  "version": 1,
+  "components": {
+    "Position":       { "x": 0, "y": 0 },
+    "Velocity":       { "x": 0, "y": 0, "mass": 1.0 },
+    "SphereCollider": { "radius": 12, "offset_x": 0, "offset_y": 0 },
+    "Primitive2D":    { "shape_type": 1, "radius": 12 },
+    "Material":       { "red": 0.0, "green": 1.0, "blue": 0.0, "alpha": 1.0 },
+    "Thrust":         { "acceleration": 1800, "max_speed": 620, "drag": 0.82 },
+    "LateralDrag":    { "lateral_drag": 0.02 },
+    "ReverseBrake":   { "brake_drag": 0.08, "brake_threshold": -0.15 },
+    "Hull":           { "current": 100, "max": 100 },
+    "Player":         {}
+  }
+}

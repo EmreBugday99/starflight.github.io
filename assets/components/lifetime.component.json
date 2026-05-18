@@ -1,0 +1,12 @@
+{
+  "name": "Lifetime",
+  "uuid": "7dbb01c3-7361-448e-8520-e36e23a54159",
+  "version": 1,
+  "fields": [
+    {
+      "name": "time_left",
+      "type": "f32",
+      "min": 0
+    }
+  ]
+}

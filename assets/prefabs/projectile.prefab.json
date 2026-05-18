@@ -1,0 +1,13 @@
+{
+  "name": "Projectile",
+  "version": 1,
+  "components": {
+    "Position":       { "x": 0, "y": 0 },
+    "Velocity":       { "x": 0, "y": 0, "mass": 0.1 },
+    "SphereCollider": { "radius": 5, "offset_x": 0, "offset_y": 0 },
+    "Primitive2D":    { "shape_type": 1, "radius": 5 },
+    "Material":       { "red": 1.0, "green": 0.8, "blue": 0.2, "alpha": 1.0 },
+    "Damage":         { "damage": 10, "pierce_remaining": 1 },
+    "Lifetime":       { "time_left": 2000 }
+  }
+}

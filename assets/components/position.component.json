@@ -1,0 +1,15 @@
+{
+  "name": "Position",
+  "uuid": "117fe1cc-275a-4d11-80fa-d87a6ca5b694",
+  "version": 1,
+  "fields": [
+    {
+      "name": "x",
+      "type": "f32"
+    },
+    {
+      "name": "y",
+      "type": "f32"
+    }
+  ]
+}

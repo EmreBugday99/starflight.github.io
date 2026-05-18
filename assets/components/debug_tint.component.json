@@ -1,0 +1,35 @@
+{
+  "name": "DebugTint",
+  "uuid": "1c3c6aa8-a61f-4120-8f46-5386e4852db9",
+  "version": 1,
+  "fields": [
+    {
+      "name": "red",
+      "type": "f32",
+      "default": 1,
+      "min": 0,
+      "max": 1
+    },
+    {
+      "name": "green",
+      "type": "f32",
+      "default": 1,
+      "min": 0,
+      "max": 1
+    },
+    {
+      "name": "blue",
+      "type": "f32",
+      "default": 1,
+      "min": 0,
+      "max": 1
+    },
+    {
+      "name": "alpha",
+      "type": "f32",
+      "default": 0.35,
+      "min": 0,
+      "max": 1
+    }
+  ]
+}

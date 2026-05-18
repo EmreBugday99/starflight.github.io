@@ -1,0 +1,12 @@
+{
+  "name": "Speed",
+  "uuid": "24f6943b-0e83-4493-b27a-d71e39a80ede",
+  "version": 1,
+  "fields": [
+    {
+      "name": "speed",
+      "type": "f32",
+      "min": 0
+    }
+  ]
+}

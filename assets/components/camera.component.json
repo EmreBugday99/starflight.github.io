@@ -1,0 +1,23 @@
+{
+  "name": "Camera",
+  "uuid": "bc4e3644-72d5-4bc0-86de-2181828ddcc4",
+  "version": 1,
+  "fields": [
+    {
+      "name": "zoom",
+      "type": "f32",
+      "default": 1,
+      "min": 0.1
+    },
+    {
+      "name": "viewport_width",
+      "type": "f32",
+      "default": 800
+    },
+    {
+      "name": "viewport_height",
+      "type": "f32",
+      "default": 600
+    }
+  ]
+}

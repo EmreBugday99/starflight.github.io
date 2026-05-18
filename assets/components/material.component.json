@@ -1,0 +1,35 @@
+{
+  "name": "Material",
+  "uuid": "9466e403-1bba-4a52-9520-77982b9ddc0b",
+  "version": 1,
+  "fields": [
+    {
+      "name": "red",
+      "type": "f32",
+      "default": 1,
+      "min": 0,
+      "max": 1
+    },
+    {
+      "name": "green",
+      "type": "f32",
+      "default": 1,
+      "min": 0,
+      "max": 1
+    },
+    {
+      "name": "blue",
+      "type": "f32",
+      "default": 1,
+      "min": 0,
+      "max": 1
+    },
+    {
+      "name": "alpha",
+      "type": "f32",
+      "default": 1,
+      "min": 0,
+      "max": 1
+    }
+  ]
+}

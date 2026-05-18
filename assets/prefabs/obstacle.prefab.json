@@ -1,0 +1,14 @@
+{
+  "name": "Obstacle",
+  "version": 1,
+  "components": {
+    "Position":       { "x": 0, "y": 0 },
+    "Velocity":       { "x": 0, "y": 0, "mass": 1.0 },
+    "SphereCollider": { "radius": 10, "offset_x": 0, "offset_y": 0 },
+    "Primitive2D":    { "shape_type": 1, "radius": 10 },
+    "Material":       { "red": 1.0, "green": 0.0, "blue": 0.0, "alpha": 1.0 },
+    "Damage":         { "damage": 100 },
+    "Chase":          { "target_entity": 0, "stop_chase_distance": 0, "stop_chase_friction": 0.99 },
+    "Speed":          { "speed": 150 }
+  }
+}

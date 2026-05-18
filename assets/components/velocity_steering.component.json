@@ -1,0 +1,12 @@
+{
+  "name": "VelocitySteering",
+  "uuid": "d74cf999-4db9-4473-8ee3-99fe3a2139d1",
+  "version": 1,
+  "fields": [
+    {
+      "name": "steer_rate",
+      "type": "f32",
+      "min": 0
+    }
+  ]
+}

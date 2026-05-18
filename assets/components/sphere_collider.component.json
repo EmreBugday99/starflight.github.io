@@ -1,0 +1,22 @@
+{
+  "name": "SphereCollider",
+  "uuid": "b100ab6e-bbe9-4b8b-a6bb-308a43999fc0",
+  "version": 1,
+  "fields": [
+    {
+      "name": "radius",
+      "type": "f32",
+      "min": 0
+    },
+    {
+      "name": "offset_x",
+      "type": "f32",
+      "default": 0
+    },
+    {
+      "name": "offset_y",
+      "type": "f32",
+      "default": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Weapon",
+  "uuid": "cdb09630-83a7-4426-b252-a64628530844",
+  "version": 1,
+  "fields": [
+    {
+      "name": "fire_rate",
+      "type": "f32",
+      "default": 80,
+      "min": 0
+    },
+    {
+      "name": "projectile_mass",
+      "type": "f32",
+      "default": 0.1,
+      "min": 0
+    },
+    {
+      "name": "projectile_count",
+      "type": "u32",
+      "default": 1,
+      "min": 0
+    },
+    {
+      "name": "spread",
+      "type": "f32",
+      "default": 0
+    },
+    {
+      "name": "velocity_inheritance",
+      "type": "f32",
+      "default": 1
+    },
+    {
+      "name": "self_recoil",
+      "type": "f32",
+      "default": 0,
+      "min": 0
+    },
+    {
+      "name": "projectile_speed",
+      "type": "f32",
+      "default": 800,
+      "min": 0
+    },
+    {
+      "name": "current_profile",
+      "type": "u8",
+      "default": 1
+    },
+    {
+      "name": "cooldown_timer",
+      "type": "f32",
+      "default": 0,
+      "min": 0
+    }
+  ]
+}

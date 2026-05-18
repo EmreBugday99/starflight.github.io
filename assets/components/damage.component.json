@@ -1,0 +1,18 @@
+{
+  "name": "Damage",
+  "uuid": "a54fd3e4-f79a-4370-92cf-ab4412386f0d",
+  "version": 1,
+  "fields": [
+    {
+      "name": "damage",
+      "type": "u32",
+      "min": 0
+    },
+    {
+      "name": "pierce_remaining",
+      "type": "u32",
+      "default": 1,
+      "min": 0
+    }
+  ]
+}

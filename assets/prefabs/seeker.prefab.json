@@ -1,0 +1,12 @@
+{
+  "name": "Seeker",
+  "version": 1,
+  "components": {
+    "Position":       { "x": 0, "y": 0 },
+    "Velocity":       { "x": 0, "y": 0, "mass": 0.01 },
+    "SphereCollider": { "radius": 12, "offset_x": 0, "offset_y": 0 },
+    "Primitive2D":    { "shape_type": 1, "radius": 12 },
+    "Material":       { "red": 1.0, "green": 0.0, "blue": 0.2, "alpha": 1.0 },
+    "Seeker":         { "target_entity": 0, "max_speed": 600, "acceleration": 2800, "steer_rate": 12, "offset_x": 0, "offset_y": 0 }
+  }
+}

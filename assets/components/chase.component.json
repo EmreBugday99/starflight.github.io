@@ -1,0 +1,24 @@
+{
+  "name": "Chase",
+  "uuid": "cebdc37c-fdf9-4da4-bfa0-30edeca185a5",
+  "version": 1,
+  "fields": [
+    {
+      "name": "target_entity",
+      "type": "entity"
+    },
+    {
+      "name": "stop_chase_distance",
+      "type": "f32",
+      "default": 0,
+      "min": 0
+    },
+    {
+      "name": "stop_chase_friction",
+      "type": "f32",
+      "default": 0.99,
+      "min": 0,
+      "max": 1
+    }
+  ]
+}

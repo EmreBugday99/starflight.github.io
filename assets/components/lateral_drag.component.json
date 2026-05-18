@@ -1,0 +1,13 @@
+{
+  "name": "LateralDrag",
+  "uuid": "7eba6563-0a88-441b-9649-e4c03b813f99",
+  "version": 1,
+  "fields": [
+    {
+      "name": "lateral_drag",
+      "type": "f32",
+      "min": 0,
+      "max": 1
+    }
+  ]
+}

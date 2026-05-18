@@ -1,0 +1,12 @@
+{
+  "name": "Asteroid",
+  "version": 1,
+  "components": {
+    "Position":       { "x": 0, "y": 0 },
+    "Velocity":       { "x": 0, "y": 0, "mass": 1.0 },
+    "SphereCollider": { "radius": 30, "offset_x": 0, "offset_y": 0 },
+    "Sprite":         { "width": 60, "height": 60, "texture_id": -1 },
+    "Material":       { "red": 1.0, "green": 1.0, "blue": 1.0, "alpha": 1.0 },
+    "Asteroid":       {}
+  }
+}

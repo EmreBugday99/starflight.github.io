@@ -1,0 +1,27 @@
+{
+  "name": "AABBCollider",
+  "uuid": "aef03a27-5d93-4e09-89ea-c1b31db3b10e",
+  "version": 1,
+  "fields": [
+    {
+      "name": "width",
+      "type": "f32",
+      "min": 0
+    },
+    {
+      "name": "height",
+      "type": "f32",
+      "min": 0
+    },
+    {
+      "name": "offset_x",
+      "type": "f32",
+      "default": 0
+    },
+    {
+      "name": "offset_y",
+      "type": "f32",
+      "default": 0
+    }
+  ]
+}

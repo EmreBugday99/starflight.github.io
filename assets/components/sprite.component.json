@@ -1,0 +1,22 @@
+{
+  "name": "Sprite",
+  "uuid": "6f3390f9-5af5-458e-ae9c-7a9ebf461f98",
+  "version": 1,
+  "fields": [
+    {
+      "name": "width",
+      "type": "f32",
+      "min": 0
+    },
+    {
+      "name": "height",
+      "type": "f32",
+      "min": 0
+    },
+    {
+      "name": "texture_id",
+      "type": "i32",
+      "default": -1
+    }
+  ]
+}
